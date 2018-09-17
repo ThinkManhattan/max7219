@@ -1,0 +1,18 @@
+{
+    "name": "matriax_max7219",
+    "version": "1.0.0",
+    "description": "makecode matriaxpanel (drived by max7219) Package for micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
